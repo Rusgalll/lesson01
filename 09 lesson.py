@@ -139,4 +139,5 @@ def filling_with_spiral(n):
     for s in mat:
         print(*s)
 
+
 filling_with_spiral(4)
