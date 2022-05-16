@@ -16,7 +16,7 @@ def even_numbers():
 
 # print(even_numbers())
 
-# 3 не понял задание
+# 3 не понял условие
 
 # 4
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cc95980-3ca2-4c44-ab7a-c54e8ea5cd4c" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/09 lesson.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 lesson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 lesson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 lesson.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 lesson.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +176,7 @@
       <updated>1652626738530</updated>
       <workItem from="1652626745308" duration="23610000" />
       <workItem from="1652692386130" duration="8551000" />
-      <workItem from="1652706321360" duration="7603000" />
+      <workItem from="1652706321360" duration="10151000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1652658231291</created>
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652711885831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <created>1652719636122</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652719636122</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +238,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lesson01$07_lesson.coverage" NAME="07 lesson Coverage Results" MODIFIED="1652711299519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lesson01$02.coverage" NAME="02 Coverage Results" MODIFIED="1652634077686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lesson01$09_lesson.coverage" NAME="09 lesson Coverage Results" MODIFIED="1652719498872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson01$09_lesson.coverage" NAME="09 lesson Coverage Results" MODIFIED="1652721929012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lesson01$04.coverage" NAME="04 Coverage Results" MODIFIED="1652655521178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lesson01$01.coverage" NAME="01 Coverage Results" MODIFIED="1652628670524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/lesson01$03.coverage" NAME="03 Coverage Results" MODIFIED="1652651208560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
